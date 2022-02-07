@@ -1,0 +1,2 @@
+body{margin:0}.container{display:grid;grid-template-columns:repeat(3,auto)}.box{height:300px;text-align:center;font-size:100px;line-height:300px;font-family:Arial,serif;color:#fff}.box:first-child{background:red}.box:nth-child(2){background:#c00}.box:nth-child(3){background:#900}.box:nth-child(4){background:#600}.box:nth-child(5){background:#300}.box:nth-child(6){background:#000}@media (max-width:899px){.container{grid-template-columns:repeat(2,auto)}}@media (max-width:599px){.container{grid-template-columns:repeat(1,auto)}}
+/*# sourceMappingURL=main.74f4773f.css.map */
